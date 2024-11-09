@@ -1,6 +1,6 @@
 Here’s an extended version of the `README.md` file with more detailed descriptions of the gameplay, AI logic, and setup.
 
-```markdown
+
 # Tic-Tac-Toe Game
 
 This project is a Python-based Tic-Tac-Toe game built with Pygame. It provides a simple, fun way to experience classic gameplay with options for both single-player and two-player modes. The game offers basic AI to play against in single-player mode and is structured for easy customization or further development.

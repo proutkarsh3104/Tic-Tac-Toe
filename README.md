@@ -1,5 +1,3 @@
-Here’s an extended version of the `README.md` file with more detailed descriptions of the gameplay, AI logic, and setup.
-
 
 # Tic-Tac-Toe Game
 
@@ -97,5 +95,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This Tic-Tac-Toe project is a beginner-friendly way to learn Python, game logic, and AI basics, and offers a foundation for those interested in exploring more complex game development or AI strategies.
 ```
-
-This extended `README.md` offers detailed information on features, game modes, and the AI logic to give potential contributors and users a comprehensive understanding of the project. Let me know if you’d like to add or adjust anything!
